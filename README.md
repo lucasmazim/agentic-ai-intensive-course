@@ -29,12 +29,12 @@ The course is designed to be flexible and interactive, allowing you to learn at 
 ## Setup Instructions
 To ensure you are ready for the course, please complete these essential setup steps:
 
-- [] Kaggle account: Sign up for a Kaggle account and learn how Notebooks work. Make sure to phone verify your account, it’s necessary for the course’s codelabs.
-- [] AI Studio account: Sign up for an AI Studio account and ensure you can generate an API key.
-- [] Sign up for an AI Studio account and ensure you can generate an API key.
-- [] Kaggle Discord: Sign up for a Discord account and join us on the Kaggle Discord server. We have the following channels dedicated to this event:
-    - [] #5dgai-announcements: find official course announcements and livestream recordings.
-    - [] #5dgai-introductions: introduce yourself and meet other participants from around the world.
-    - [] #5dgai-question-forum: Discord forum-style channel for asking questions and discussions about the assignments.
-    - [] #5dgai-general-chat: a general channel to discuss course materials and network with other participants.
-    - [] Please note that if you would like to post on other channels on the Kaggle discord you will need to link your Kaggle account to discord here: https://kaggle.com/discord/confirmation.
+- [ ] Kaggle account: Sign up for a Kaggle account and learn how Notebooks work. Make sure to phone verify your account, it’s necessary for the course’s codelabs.
+- [ ] AI Studio account: Sign up for an AI Studio account and ensure you can generate an API key.
+- [ ] Sign up for an AI Studio account and ensure you can generate an API key.
+- [ ] Kaggle Discord: Sign up for a Discord account and join us on the Kaggle Discord server. We have the following channels dedicated to this event:
+    - [ ] #5dgai-announcements: find official course announcements and livestream recordings.
+    - [ ] #5dgai-introductions: introduce yourself and meet other participants from around the world.
+    - [ ] #5dgai-question-forum: Discord forum-style channel for asking questions and discussions about the assignments.
+    - [ ] #5dgai-general-chat: a general channel to discuss course materials and network with other participants.
+    - [ ] Please note that if you would like to post on other channels on the Kaggle discord you will need to link your Kaggle account to discord here: https://kaggle.com/discord/confirmation.
